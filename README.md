@@ -1,7 +1,7 @@
 # maeve-market
 Pitch for MAEVE spring market
 
-A single-page static site (`index.html` + `styles.css`) that pitches the MAEVE Market idea: a small backyard makers market and potluck for MAEVE families on a Saturday in April.
+A single-page static site (`index.html` + `styles.css`) that pitches the MAEVE Market idea: a small makers market and potluck for MAEVE families on a Saturday in April, hosted in a backyard or at a venue such as a community center, park pavilion, church, or school.
 
 ## View it
 
